@@ -38,10 +38,6 @@ This beginner-friendly Machine Learning project uses the famous **Iris dataset**
 
 ---
 
-## 📸 Output Screenshots
-*(Optional – you can upload images by dragging them to this README later)*
-
----
 
 ## 👨‍🎓 Author
 - Ayush Polishwala  
